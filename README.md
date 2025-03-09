@@ -12,7 +12,7 @@ This is my first repo, so sorry if it isn't too good.
 ## Credits & Links
 
 [Zsh](https://www.zsh.org) is the foundation for everything.
-[Oh my Zsh!](https://ohmyz.sh) is the project I use for theming and (most )plugins.
+[Oh my Zsh!](https://ohmyz.sh) is the project I use for theming and (most) plugins.
 [Fastfetch Configs](https://github.com/LierB/fastfetch) is the project I use to get my fastfetch configs. 
 
 ## Prerequisites
