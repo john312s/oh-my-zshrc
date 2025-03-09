@@ -1,0 +1,6 @@
+# Put the file (types) that you want to ignore here.
+*.log
+*.bash
+*.zsh
+*.bak
+*.backup
