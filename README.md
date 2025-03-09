@@ -1,4 +1,4 @@
-# Zsh
+# Oh my zsh(rc)!
 
 <h3 align="left">
 Hello! This is my .zshrc repo. Feel free to look around!
