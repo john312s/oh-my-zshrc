@@ -26,7 +26,7 @@ fastfetch
 
 You will also need Oh my Zsh! and Fastfetch Configs, which can be installed by executing;
 ```bash
-sh -c "$(curl -fsSL https://github.com/treid998/oh-my-zshrc/blob/main/scripts/install-deps.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/treid998/oh-my-zshrc/main/scripts/install-deps.sh)"
 ```
 As a user, **NOT** as root/sudo!
 
