@@ -4,3 +4,6 @@
 *.zsh
 *.bak
 *.backup
+
+# We don't need this file, it's only for testing.
+.zshrc.nanorc
