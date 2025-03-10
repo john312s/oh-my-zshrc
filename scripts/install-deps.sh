@@ -1,6 +1,9 @@
 #!/bin/bash
 
-# Check for the $ZSH folder.
+## Simple script to install Oh My Zsh and some Fastfetch Configs.
+## I'm not to good at scripting so feel free to optimize/add on as you see fit.
+
+# Check for the Oh My Zsh folder.
 if [ -d "$HOME/.oh-my-zsh" ]; then
     echo "Oh My Zsh is installed, so we're going to try to clone the fastfetch repo."
     # Check to see if the fastfetch folder exists.
@@ -17,6 +20,7 @@ else
     read -p "Should we install it? y/n: " choice
     if [ "$choice" = "y" ] || [ "$choice" = "Y" ] || [ "$choice" = "yes" ] || [ "$choice" = "Yes" ] ; then
         echo "Installing Oh My Zsh, you'll have to run the script again after."
+        echo "Your current .zshrc will only be *added* on to."
         sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
     # If they respond with anything other than the afforementioned.
     else

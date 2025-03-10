@@ -51,5 +51,3 @@ Thank you for checking out my repo!!
 If you have any suggestions, feel free to reach out or submit an issue.
 
 Blah blah blah, something something, oh please please star my repo!!!! ;((((( pls pls pls!!!
-
-> Hello world!
